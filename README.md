@@ -31,8 +31,7 @@ We use service from Google Cloud like :
 ## Technology Used 
 
 **Cloud Run**
-
-Cloud Run is a service that allows you to deploy applications more easily because it is serverless and built using containerization.
+Used to run a container-based backend packaged with Docker and implement a serverless architecture.
 
 
 **Cloud IAM**
