@@ -8,13 +8,13 @@ StockPred is a cutting-edge stock prediction tool that utilizes AI to predict st
 This initiative is part of the capstone project for the Bangkit 2024 Batch 2 program.
 
 
-# mo-Rotie 🍞
+# StockPred 
 
 
 ## 🔗 URL
 Endpoint URL for arcticle
 ```https
-https://api-article-capstone-mbgndrsufq-et.a.run.app
+https://capstone-backendapi-final-500727111626.asia-southeast2.run.app
 ```
 
 
@@ -24,7 +24,6 @@ Google Cloud is a cloud-based service provider platform with many services that 
 
 We use service from Google Cloud like :
 - Cloud Run
-- Cloud SQL
 - Cloud IAM
 - Cloud Storage
 
@@ -35,9 +34,6 @@ We use service from Google Cloud like :
 
 Cloud Run is a service that allows you to deploy applications more easily because it is serverless and built using containerization.
 
-**Cloud SQL**
-
-Google Cloud SQL is a fully-managed database service that makes it easy to set-up, maintain, manage and administer your relational MySQL, PostgreSQL, and SQL Server databases in the cloud. Hosted on Google Cloud Platform, Cloud SQL provides a database infrastructure for applications running anywhere.
 
 **Cloud IAM**
 
