@@ -37,8 +37,8 @@ Used to run a container-based backend packaged with Docker and implement a serve
 
 **Cloud IAM**
 
-Cloud IAM allows administrators to authorize who can take action on specific resources, giving you full control and visibility to centrally manage Google Cloud resources.
+Used for access management (role-based access control).
 
 **Cloud Storage**
 
-We use this service to store images in the form of links, so that the links can be inserted into the SQL Cloud so that they can be consumed by the MD team.
+Used to store the data of the Machine Learning model.
