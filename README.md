@@ -42,3 +42,7 @@ Used for access management (role-based access control).
 **Cloud Storage**
 
 Used to store the data of the Machine Learning model.
+
+# Authors
+- Esi Butarbutar - Cloud Computing - [esiibb](https://github.com/esiibb)
+- Grace Loreta Sianipar - Cloud Computing - [gracesianipar](https://github.com/gracesianipar)
