@@ -9,7 +9,7 @@ This initiative is part of the capstone project for the Bangkit 2024 Batch 2 pro
 
 
 # StockPred 
-
+https://github.com/StockPredBangkit22024/asset/blob/main/Google%20Cloud%20Infrastructure.png
 
 ## 🔗 URL
 Endpoint URL for arcticle
@@ -42,6 +42,9 @@ Used for access management (role-based access control).
 **Cloud Storage**
 
 Used to store the data of the Machine Learning model.
+
+## Google Cloud Infrastructure
+<img src="https://github.com/StockPredBangkit22024/asset/blob/main/Google%20Cloud%20Infrastructure.png" alt="Google Cloud Infrastructure" width="800">
 
 # Authors
 - Esi Butarbutar - Cloud Computing - [esibutarbutar](https://github.com/esibutarbutar)
