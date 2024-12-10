@@ -20,7 +20,7 @@ https://capstone-backendapi-final-500727111626.asia-southeast2.run.app
 
 
 ## Google Cloud
-Google Cloud is a cloud-based service provider platform with many services that support application and technology development. With many services available such as IaaS for infrastructure development, PaaS for platforms as users can develop and run applications in serverless and SaaS are applications provided by providers that are already running on the Cloud. 
+Google Cloud is a cloud-based platform that offers a wide range of services to support application and technology development. These services include IaaS for building infrastructure, PaaS for developing and running serverless applications, and SaaS for accessing ready-to-use applications directly from the cloud. 
 
 We use service from Google Cloud like :
 - Cloud Run
