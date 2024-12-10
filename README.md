@@ -44,5 +44,5 @@ Used for access management (role-based access control).
 Used to store the data of the Machine Learning model.
 
 # Authors
-- Esi Butarbutar - Cloud Computing - [esiibb](https://github.com/esiibb)
+- Esi Butarbutar - Cloud Computing - [esibutarbutar](https://github.com/esibutarbutar)
 - Grace Loreta Sianipar - Cloud Computing - [gracesianipar](https://github.com/gracesianipar)
