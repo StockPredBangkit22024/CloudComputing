@@ -43,6 +43,9 @@ Used for access management (role-based access control).
 
 Used to store the data of the Machine Learning model.
 
+## Google Cloud Deployment Process
+<img src="https://github.com/StockPredBangkit22024/asset/blob/main/Google%20Cloud%20Deployment%20Process.jpeg" alt="Google Cloud Deployment Process" width="800">
+
 ## Google Cloud Infrastructure
 <img src="https://github.com/StockPredBangkit22024/asset/blob/main/Google%20Cloud%20Infrastructure.png" alt="Google Cloud Infrastructure" width="800">
 
